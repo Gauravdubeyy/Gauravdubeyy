@@ -13,7 +13,7 @@ I am Gaurav Dubey!!
 - 🔭 I’m a Computer Science Engineering And Cybersecurity Studnet.
 - 🌱 Learning about Ethical Hacking And Computer Science.
 - ⚡ Leaning New Skills In My Free Time.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-dubey-54373a224/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-dubey-54373a224/) 
 
 ---
 
