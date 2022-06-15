@@ -1,27 +1,62 @@
-<p align="center"><img src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" width="100" border="25px"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/gaurav-dubey-54373a224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
 
-<p align="center"><img src="" width="600" height="300"  /></p>
+.title {
+  color: grey;
+  font-size: 18px;
+}
 
-### :woman_technologist: &nbsp;About Me :
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
 
-I am Gaurav Dubey!!
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
 
-- 🔭 I’m a Computer Science Engineering And Cybersecurity Studnet.
-- 🌱 Learning about Ethical Hacking And Computer Science.
-- ⚡ Leaning New Skills In My Free Time.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Gaurav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-dubey-54373a224/) 
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
 
----
+<h2 style="text-align:center">User Profile Card</h2>
 
----
+<div class="card">
+  <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+  <h1>John Doe</h1>
+  <p class="title">CEO & Founder, Example</p>
+  <p>Harvard University</p>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-dribbble"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
 
-### 🔥 &nbsp; My Stats :
-
----
-
-### ✍️ Blog Posts : 
-
+</body>
+</html>
