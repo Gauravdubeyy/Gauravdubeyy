@@ -1,10 +1,10 @@
-<p align="center"><img src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" width="100"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" width="150"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gaurav-dubey-54373a224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="https://c.tenor.com/xMmwPOqFFSAAAAAS/aesthetic-typing.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://i.gifer.com/9hg1.gif" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
