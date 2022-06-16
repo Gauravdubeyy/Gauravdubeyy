@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" width="100" border="25px"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" width="100" border-radius="25"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gaurav-dubey-54373a224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
