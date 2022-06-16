@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Gauravdubeyy/logo-gif/blob/main/20220616194126827.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Gauravdubeyy/logo-gif/blob/main/20220616195910133.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
