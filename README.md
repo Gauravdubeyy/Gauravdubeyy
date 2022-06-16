@@ -4,7 +4,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="https://textanim.com/g-gif-update.php?r000=230" width="600" height="300"  /></p>
+<p align="center"><img src="" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
