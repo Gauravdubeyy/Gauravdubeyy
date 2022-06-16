@@ -8,7 +8,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-<img align="left" src="https://i.pinimg.com/originals/c3/e1/ff/c3e1ff5e3aebd69d272e465ac69512ce.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Gauravdubeyy/logo-gif/blob/main/20220616192055240.gif?raw=true" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
