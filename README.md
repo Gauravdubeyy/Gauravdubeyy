@@ -33,3 +33,7 @@ I`m Gaurav Dubey!
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gauravdubeyy&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Gaura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdubeyy&theme=blue-green&show_icons=true)
+
+
