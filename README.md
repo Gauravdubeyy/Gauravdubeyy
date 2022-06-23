@@ -37,3 +37,5 @@ I`m Gaurav Dubey!
 ![Gaura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravdubeyy&theme=blue-green&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdubey&theme=blue-green)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravdubeyy&theme=dracula)](https://github.com/Gauravdubeyy/github-readme-activity-graph)
