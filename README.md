@@ -37,4 +37,4 @@ I`m Gaurav Dubey!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdubeyy&langs_count=8&theme=blue-green)](https://github.com/Gauravdubeyy/github-readme-stats)
 
-[![Gaurav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravdubeyy&theme=react-dark)](https://github.com/Gauravdubeyy/github-readme-activity-graph)
+
