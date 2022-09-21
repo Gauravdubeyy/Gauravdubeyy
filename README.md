@@ -37,4 +37,7 @@ I`m Gaurav Dubey!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravdubeyy&langs_count=10&theme=blue-green)](https://github.com/Gauravdubeyy/github-readme-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blur-green)
+
 
