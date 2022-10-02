@@ -16,6 +16,8 @@ I`m Gaurav Dubey!
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/Gauravdubeyy/Gauravdubeyy/blob/main/icons/flutter.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Gauravdubeyy/Gauravdubeyy/blob/main/icons/dart.png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Gauravdubeyy/Gauravdubeyy/main/icons/python.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Gauravdubeyy/Gauravdubeyy/c472877e69dcdb9847d04243fbb107d7c7e37a2f/icons/c%2B%2B.svg" title="cpp" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Gauravdubeyy/Gauravdubeyy/main/icons/kotlin.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
