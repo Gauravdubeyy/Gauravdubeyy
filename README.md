@@ -4,7 +4,7 @@
 ```
 I`m Gaurav Dubey!
 -------------------------
-💻 I’m a Computer Science Engineering And Cybersecurity Studnet.
+💻 I’m a Computer Science Engineering And Cybersecurity Student.
 🔭 Working on Python Projects.
 🌱 Learning about Ethical Hacking and Data Structure.
 🌟 Main languages: Python, C++, C.
