@@ -1,4 +1,3 @@
-<img align="left" src="https://github.com/Gauravdubeyy/Gauravdubeyy/blob/main/icons/bg.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
 <hr>
 
 ```
