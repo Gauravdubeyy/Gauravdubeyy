@@ -3,10 +3,10 @@
 ```
 I`m Gaurav Dubey!
 -------------------------
-💻 I’m a Computer Science Engineering And Cybersecurity Student.
-🔭 Working on Python Projects.
+💻 I’m a Software Engineer.
+🔭 Working on Flutter, Dotnet, Java, Js, Python, Etc Projects.
 🌱 Learning about Ethical Hacking and Data Structure.
-🌟 Main languages: Python, C++, C.
+🌟 Main languages: Java, DotNet, Dart, Python, C++, C.
 🚩 Interested in Competetive Programming.
 🎵 Love lofi, classical and soft music.
 ```
